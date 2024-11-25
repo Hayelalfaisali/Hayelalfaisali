@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&gradientColors=6a0dad,9370db)
-
 ### 👋 Hi there! I'm Hayel Al-Faisali
 
 I'm a passionate **Front-End Developer** specializing in **React**. I love creating dynamic and responsive web applications that provide excellent user experiences. With a strong foundation in JavaScript and modern front-end technologies, I strive to write clean, maintainable code while continuously improving my skills.
@@ -14,14 +13,14 @@ I'm a passionate **Front-End Developer** specializing in **React**. I love creat
   - React.js
   - JavaScript (ES6+)
   - HTML5 & CSS3
-  - Redux / Context API
+  - Zustand
   - RESTful APIs & GraphQL
   - Responsive Design & Accessibility
 
 ---
 
 ### 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=radical)
 
 ---
 
