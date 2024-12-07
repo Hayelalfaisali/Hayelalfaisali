@@ -38,10 +38,6 @@ Here are some of the projects I've worked on:
    A brief description of what this project does and the technologies used.
 
 ---
-<p align="center"> 
-  Visitor count <br><br>
-  <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" />
-</p>
 
 ### 🌐 Connect with Me
 Feel free to reach out if you want to collaborate or just chat!
