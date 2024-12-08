@@ -24,7 +24,7 @@ I'm a passionate **Front-End Developer** specializing in **React**. I love creat
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=radical)
 
 ---
-
+<!--
 ### 📝 Projects
 Here are some of the projects I've worked on:
 
@@ -36,6 +36,7 @@ Here are some of the projects I've worked on:
 
 3. **[Project Name 3](link-to-your-project)**  
    A brief description of what this project does and the technologies used.
+   -->
 
 ---
 
