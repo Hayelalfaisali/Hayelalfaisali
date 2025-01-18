@@ -7,7 +7,7 @@ I'm a passionate **Front-End Developer** specializing in **React**. I love creat
 ---
 
 ### 🌟 About Me
-- 🎓 **Education**: Bachelor from Al-Nasser University
+- 🎓 **Education**: Bachelor Degree from Al-Nasser University
 - 💼 **Experience**: 1 year of experience in front-end development
 - 🌍 **Location**: Yemen-Sana'a
 - 🛠️ **Technologies I Use**:
