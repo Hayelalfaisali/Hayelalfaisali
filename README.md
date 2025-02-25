@@ -21,8 +21,8 @@ I'm a passionate **Front-End Developer** specializing in **React**. I love creat
 ---
 
 ### 📈 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hayelalfaisali&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Hayelalfaisali&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 <!--
 ### 📝 Projects
