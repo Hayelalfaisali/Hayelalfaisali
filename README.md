@@ -22,7 +22,7 @@ I'm a passionate **Front-End Developer** specializing in **React**. I love creat
 
 ### 📈 My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 ### 📝 Projects
 Here are some of the projects I've worked on:
