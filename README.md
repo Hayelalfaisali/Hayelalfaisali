@@ -40,17 +40,11 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 🌐 Connect with Me
-Feel free to reach out if you want to collaborate or just chat!
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
 
 ---
 <p align="center"> 
   Visitor count <br><br>
-  <img src="https://profile-counter.glitch.me/Ibrahim-Almsawa/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" />
 </p>
 
 ### 💬 Let's Talk!
