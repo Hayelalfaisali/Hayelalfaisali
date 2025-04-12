@@ -41,7 +41,6 @@ Here are some of the projects I've worked on:
 ---
 
 
----
 <p align="center"> 
   Visitor count <br><br>
   <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" />
