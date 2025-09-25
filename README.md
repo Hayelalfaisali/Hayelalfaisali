@@ -1,50 +1,77 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&gradientColors=6a0dad,9370db)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=HAYEL%20AL-FAISALI&fontSize=48&fontColor=ffffff)
 
-### 👋 Hi there! I'm Hayel Al-Faisali
-
-I'm a passionate **Front-End Developer** specializing in **React**. I love creating dynamic and responsive web applications that provide excellent user experiences. With a strong foundation in JavaScript and modern front-end technologies, I strive to write clean, maintainable code while continuously improving my skills.
-
----
-
-### 🌟 About Me
-- 🎓 **Education**: Bachelor Degree from Al-Nasser University
-- 💼 **Experience**: 1 year of experience in front-end development
-- 🌍 **Location**: Yemen-Sana'a
-- 🛠️ **Technologies I Use**:
-  - React.js
-  - JavaScript (ES6+)
-  - HTML5 & CSS3
-  - Zustand
-  - RESTful APIs & GraphQL
-  - Responsive Design & Accessibility
-
----
-
-### 📈 My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-### 📝 Projects
-Here are some of the projects I've worked on:
-
-1. **[Project Name 1](link-to-your-project)**  
-   A brief description of what this project does and the technologies used.
-
-2. **[Project Name 2](link-to-your-project)**  
-   A brief description of what this project does and the technologies used.
-
-3. **[Project Name 3](link-to-your-project)**  
-   A brief description of what this project does and the technologies used.
-   -->
-
----
-
-
-<p align="center"> 
-  Visitor count <br><br>
-  <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" />
+<p align="center">
+  <a href="https://codesfoliow.com/hayel" target="_blank">🌐 Portfolio</a> •
+  <a href="mailto:hayelalfaisali1@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">🔗 LinkedIn</a>
 </p>
 
-### 💬 Let's Talk!
-I'm always open to discussing new projects, creative ideas, or just connecting with fellow developers. Don't hesitate to drop me a message!
+## ✨ Versatile Front-End Developer | Multi-Framework Specialist
+
+I'm **Hayel Al-Faisali**, a dedicated Front-End Developer with over a year of experience building dynamic, scalable, and responsive web applications. I specialize in the **React** ecosystem, while continuously mastering modern frameworks like **Next.js**, **Vue.js**, and **Angular**. I focus on translating complex requirements into clean, high-performance code, ensuring excellent user experiences across diverse projects.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+My proficiency spans across multiple major JavaScript frameworks and the tools required for modern, robust web development.
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | **React.js** (Core), **Next.js**, **Vue.js**, **Angular**, Bootstrap, Tailwind CSS |
+| **Languages** | JavaScript (ES6+), **HTML5**, **CSS3** |
+| **State Management** | Zustand, Context API |
+| **API Integration** | **RESTful APIs**, GraphQL |
+| **Tooling & Build** | Git, GitHub, Vite, npm, pnpm, Sass/LESS |
+| **Quality & Testing** | Jest, Cypress, Unit Testing |
+| **Design Principles** | **Responsive Design**, UI/UX Design principles, Cross-browser Compatibility |
+
+---
+
+## 💻 Selected Projects Portfolio
+
+Showcasing my ability to deliver functional, high-impact solutions across different sectors.
+
+### 🌹 Rose Perfume E-commerce
+* **Description:** A complete e-commerce platform for perfumes, featuring product catalogs, secure checkout, and dynamic user interfaces.
+* **My Role:** Front-End Development, ensuring responsive design and seamless integration with the back-end API.
+* **Live Site:** [https://roseperfume.com.sa/](https://roseperfume.com.sa/)
+
+### 🌍 LORMIY (Localization & Optimization Initiative)
+* **Description:** The official website for the LORMIY initiative, focused on providing information and resources.
+* **My Role:** Developed and maintained responsive web interfaces using modern standards and collaborated with back-end teams for full functionality.
+* **Live Site:** [https://lormiy.com/](https://lormiy.com/)
+
+---
+
+## 🚀 Professional Experience Summary
+
+My experience centers on developing robust front-end solutions, with a strong commitment to best practices and cross-functional teamwork.
+
+### Latest Professional Focus: Creative Point Company
+* Developed and maintained **dynamic, responsive web applications** using **React.js**.
+* Integrated **RESTful APIs** and managed application state effectively with **Zustand** and **Context API**.
+* Actively participated in **code reviews** and mentored junior developers.
+
+### Education
+* **Bachelor’s Degree in Information Technology (IT)** - Al-Nasser University (Graduated Jul 2024)
+
+---
+
+## 📈 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/Hayelalfaisali">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=buefy&hide_title=true&count_private=true&disable_animations=true&line_height=25&hide_border=true" alt="Hayel's GitHub Stats" />
+  </a>
+</p>
+
+---
+
+<p align="center"> 
+  Visitors: <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" alt="Visitor Count" />
+</p>
+
+## 💬 Let's Connect!
+
+I'm always open to discussing new **Front-End opportunities**, project collaborations, or sharing insights on React, Vue, Next.js, and modern web development. Feel free to reach out.I look forward to connecting!
