@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=HAYEL%20AL-FAISALI&fontSize=48&fontColor=ffffff)
 
 <p align="center">
-  <a href="https://codesfoliow.com/hayel" target="_blank">🌐 Portfolio</a> •
+  <a href="https://hayel-alfaisali.vercel.app" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:hayelalfaisali1@gmail.com">📧 Email</a> •
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">🔗 LinkedIn</a>
 </p>
