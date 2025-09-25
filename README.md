@@ -68,10 +68,6 @@ My experience centers on developing robust front-end solutions, with a strong co
 
 ---
 
-<p align="center"> 
-  Visitors: <img src="https://profile-counter.glitch.me/Hayelalfaisali/count.svg" alt="Visitor Count" />
-</p>
-
 ## 💬 Let's Connect!
 
 I'm always open to discussing new **Front-End opportunities**, project collaborations, or sharing insights on React, Vue, Next.js, and modern web development. Feel free to reach out.I look forward to connecting!
