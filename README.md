@@ -48,7 +48,7 @@ Showcasing my ability to deliver functional, high-impact solutions across differ
 
 My experience centers on developing robust front-end solutions, with a strong commitment to best practices and cross-functional teamwork.
 
-### Latest Professional Focus: Creative Point Company
+### Latest Professional Focus: Sofa Company
 * Developed and maintained **dynamic, responsive web applications** using **React.js**.
 * Integrated **RESTful APIs** and managed application state effectively with **Zustand** and **Context API**.
 * Actively participated in **code reviews** and mentored junior developers.
