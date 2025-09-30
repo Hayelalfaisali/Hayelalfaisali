@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://hayel-alfaisali.vercel.app/" target="_blank">🌐 Portfolio</a> •
   <a href="mailto:hayelalfaisali1@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">🔗 LinkedIn</a>
 </p>
 
 ## ✨ Versatile Front-End Developer | Multi-Framework Specialist
