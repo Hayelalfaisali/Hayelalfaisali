@@ -1,73 +1,97 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=HAYEL%20AL-FAISALI&fontSize=48&fontColor=ffffff)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=HAYEL%20AL-FAISALI&fontSize=42&fontAlignY=38&desc=%3C%20Senior%20Front-End%20Engineer%20%2F%3E&descAlignY=62&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
 
-<p align="center">
-  <a href="https://hayel-alfaisali.vercel.app/" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:hayelalfaisali1@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">🔗 LinkedIn</a>
-</p>
+  <p align="center">
+    <a href="https://hayel-alfaisali.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-hayel--alfaisali.vercel.app-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:hayelalfaisali1@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-## ✨ Versatile Front-End Developer | Multi-Framework Specialist
+```bash
+$ npx hayel-alfaisali --intro
 
-I'm **Hayel Al-Faisali**, a dedicated Front-End Developer with over a year of experience building dynamic, scalable, and responsive web applications. I specialize in the **React** ecosystem, while continuously mastering modern frameworks like **Next.js**, **Vue.js**, and **Angular**. I focus on translating complex requirements into clean, high-performance code, ensuring excellent user experiences across diverse projects.
+```
 
----
+```typescript
+const engineer: FrontEndArchitect = {
+  name: "Hayel Al-Faisali",
+  role: "Front-End Developer & UI/UX Craftsman",
+  stack: ["React.js", "Next.js", "Vue.js", "Angular", "TypeScript"],
+  stateManagement: ["Zustand", "Context API", "Redux"],
+  styling: ["Tailwind CSS", "Sass", "Responsive & Pixel-Perfect Design"],
+  currentFocus: "Architecting scalable web apps with ultra-low latency & clean code",
+  status: "🚀 Open for impactful collaborations & frontend roles"
+};
 
-## 🛠️ Tech Stack & Expertise
-
-My proficiency spans across multiple major JavaScript frameworks and the tools required for modern, robust web development.
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frameworks** | **React.js** (Core), **Next.js**, **Vue.js**, **Angular**, Bootstrap, Tailwind CSS |
-| **Languages** | JavaScript (ES6+), **HTML5**, **CSS3** |
-| **State Management** | Zustand, Context API |
-| **API Integration** | **RESTful APIs**, GraphQL |
-| **Tooling & Build** | Git, GitHub, Vite, npm, pnpm, Sass/LESS |
-| **Quality & Testing** | Jest, Cypress, Unit Testing |
-| **Design Principles** | **Responsive Design**, UI/UX Design principles, Cross-browser Compatibility |
-
----
-
-## 💻 Selected Projects Portfolio
-
-Showcasing my ability to deliver functional, high-impact solutions across different sectors.
-
-### 🌹 Rose Perfume E-commerce
-* **Description:** A complete e-commerce platform for perfumes, featuring product catalogs, secure checkout, and dynamic user interfaces.
-* **My Role:** Front-End Development, ensuring responsive design and seamless integration with the back-end API.
-* **Live Site:** [https://roseperfume.com.sa/](https://roseperfume.com.sa/)
-
-### 🌍 LORMIY (Localization & Optimization Initiative)
-* **Description:** The official website for the LORMIY initiative, focused on providing information and resources.
-* **My Role:** Developed and maintained responsive web interfaces using modern standards and collaborated with back-end teams for full functionality.
-* **Live Site:** [https://lormiy.com/](https://lormiy.com/)
+```
 
 ---
 
-## 🚀 Professional Experience Summary
-
-My experience centers on developing robust front-end solutions, with a strong commitment to best practices and cross-functional teamwork.
-
-### Latest Professional Focus: Sofa Company
-* Developed and maintained **dynamic, responsive web applications** using **React.js**.
-* Integrated **RESTful APIs** and managed application state effectively with **Zustand** and **Context API**.
-* Actively participated in **code reviews** and mentored junior developers.
-
-### Education
-* **Bachelor’s Degree in Information Technology (IT)** - Al-Nasser University (Graduated Jul 2024)
+## ⚡ `$ cat tech-stack.json`
 
 ---
 
-## 📈 My GitHub Activity
+## 🛠️ Featured Deployments & Projects
 
-<p align="center">
-  <a href="https://github.com/Hayelalfaisali">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hayelalfaisali&show_icons=true&theme=buefy&hide_title=true&count_private=true&disable_animations=true&line_height=25&hide_border=true" alt="Hayel's GitHub Stats" />
-  </a>
-</p>
+```bash
+$ curl -s [https://api.github.com/users/Hayelalfaisali/projects](https://api.github.com/users/Hayelalfaisali/projects) | jq '.[]'
+
+```
+
+### 🌹 [Rose Perfume E-commerce](https://roseperfume.com.sa/?utm_source=gemini)
+
+> *A high-conversion perfume e-commerce platform built for speed and seamless UX.*
+
+* **Architecture:** Responsive client interfaces, dynamic catalog rendering, stateful cart and checkout pipeline.
+* **Impact:** Full integration with backend REST APIs, optimized web vitals, and fluid mobile experience.
+* **Live Preview:** [roseperfume.com.sa](https://roseperfume.com.sa/?utm_source=gemini)
 
 ---
 
-## 💬 Let's Connect!
+### 🌍 [LORMIY Platform](https://lormiy.com/?utm_source=gemini)
 
-I'm always open to discussing new **Front-End opportunities**, project collaborations, or sharing insights on React, Vue, Next.js, and modern web development. Feel free to reach out.I look forward to connecting!
+> *Comprehensive web portal engineered for localization, performance, and accessibility.*
+
+* **Architecture:** Modular component architecture, internationalization (i18n), cross-browser stability.
+* **Impact:** Highly scalable design system ensuring seamless interaction and clear content discovery.
+* **Live Preview:** [lormiy.com](https://lormiy.com/?utm_source=gemini)
+
+---
+
+## 💼 Experience & Milestones
+
+```bash
+$ git log --oneline --decorate --graph
+
+```
+
+* **Frontend Developer** @ **Sofa Company**
+* Modernized web applications leveraging **React.js** and modular component patterns.
+* Designed efficient state architecture with **Zustand** & **Context API** to eliminate redundant re-renders.
+* Mentored junior team members and championed clean frontend coding standards and reviews.
+
+
+* **Academic Background**
+* **Bachelor's Degree in Information Technology (IT)** — *Al-Nasser University* (Graduated Jul 2024)
+
+
+
+---
+
+## 📊 Analytics & Activity
+
+---
+
+## 📬 Terminal Ping
+
+```bash
+$ ping hayel.alfaisali
+64 bytes from hayel: icmp_seq=1 ttl=64 time=0.042 ms
+--- Let's build something extraordinary together! ---
