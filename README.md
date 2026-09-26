@@ -2,7 +2,7 @@
 
 # HAYEL AL-FAISALI
 ### 💻 Front-End Developer | React & Modern Web Specialist
-📍 **Sana'a, Yemen** • 📱 **+967 772 537 138**
+📍 **Sana'a, Yemen** 
 
 <p align="center">
   <a href="https://hayel-alfaisali.vercel.app" target="_blank">
