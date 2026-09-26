@@ -1,11 +1,12 @@
 <div align="center">
 
 # HAYEL AL-FAISALI
-### 💻 Front-End Developer & UI/UX Craftsman
+### 💻 Front-End Developer | React & Modern Web Specialist
+📍 **Sana'a, Yemen** • 📱 **+967 772 537 138**
 
 <p align="center">
-  <a href="https://hayel-alfaisali.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://hayel-alfaisali.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-hayel--alfaisali.com-0052CC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -18,19 +19,28 @@
 </div>
 
 ```bash
-$ npx hayel-alfaisali --intro
+$ npx hayel-alfaisali --profile-summary
 
 ```
 
 ```typescript
-const engineer: FrontEndArchitect = {
+interface DeveloperProfile {
+  name: string;
+  role: string;
+  location: string;
+  languages: { arabic: string; english: string };
+  focus: string;
+}
+
+const Hayel: DeveloperProfile = {
   name: "Hayel Al-Faisali",
-  role: "Front-End Developer & UI/UX Craftsman",
-  stack: ["React.js", "Next.js", "Vue.js", "Angular", "TypeScript"],
-  stateManagement: ["Zustand", "Context API", "Redux"],
-  styling: ["Tailwind CSS", "Sass", "Responsive Design"],
-  currentFocus: "Architecting scalable web apps with ultra-low latency & clean code",
-  status: "🚀 Open for impactful collaborations & frontend roles"
+  role: "Front-End Developer",
+  location: "Sana'a, Yemen",
+  languages: {
+    arabic: "Native",
+    english: "Fluent (New Horizons English Graduate)"
+  },
+  focus: "Translating complex requirements into performant, accessible & pixel-perfect UI"
 };
 
 ```
@@ -39,62 +49,96 @@ const engineer: FrontEndArchitect = {
 
 ## ⚡ `$ cat tech-stack.json`
 
+| Domain | Technologies & Tooling |
+| --- | --- |
+| **Core Languages** | JavaScript (ES6+), HTML5, CSS3, TypeScript |
+| **Frameworks & Libs** | **React.js** (Core), Next.js, Vue.js, Angular, Laravel Blade |
+| **State Management** | Zustand, Context API |
+| **Styling & Design** | Tailwind CSS, Bootstrap, Sass / LESS, Responsive UI/UX |
+| **Tooling & Workflows** | Vite, npm, pnpm, Git, GitHub, RESTful APIs |
+| **Testing & Quality** | Jest, Cypress, Cross-browser Compatibility, Unit Testing |
+
 ---
 
-## 🛠️ Featured Deployments & Projects
+## 💼 `$ git log --all --decorate --oneline`
 
 ```bash
-$ curl -s [https://api.github.com/users/Hayelalfaisali/projects](https://api.github.com/users/Hayelalfaisali/projects) | jq '.[]'
+* 7d9a1c2 (HEAD -> main) feat(sofa-company): design & maintain scalable web applications (May 2024 - Present)
+* 4f8b2e1 feat(rose-perfume): architect responsive React.js e-commerce UI (May 2025 - Aug 2025)
+* 2b5c8a0 feat(lormiy-org): build humanitarian platform with Blade, JS & responsive CSS (Dec 2023 - Mar 2024)
+* 1a3e9d4 feat(yemen-soft): internship - analyze requirements & build core system logic (Aug 2023 - Sep 2023)
 
 ```
 
-### 🌹 [Rose Perfume E-commerce](https://roseperfume.com.sa/?utm_source=gemini)
+### 🏢 Work Experience Breakdown
 
-> *A high-conversion perfume e-commerce platform built for speed and seamless UX.*
+#### 🔹 Front-End Developer | **Sofa Company**
 
-* **Architecture:** Responsive client interfaces, dynamic catalog rendering, stateful cart and checkout pipeline.
-* **Impact:** Full integration with backend REST APIs, optimized web vitals, and fluid mobile experience.
-* **Live Preview:** [roseperfume.com.sa](https://roseperfume.com.sa/?utm_source=gemini)
+*May 2024 – Present*
+
+* Designing, developing, and maintaining high-quality, scalable web applications with dynamic UI.
+* Integrating robust **RESTful APIs** and structuring efficient state management with **Zustand** and **Context API**.
+* Ensuring responsive design, optimal rendering cycles, and continuous code quality reviews.
+
+#### 🔹 Front-End Developer | **Lormiy Organization**
+
+*Dec 2023 – Mar 2024*
+
+* Developed and maintained responsive web interfaces supporting international humanitarian response initiatives.
+* Leveraged **HTML5**, **CSS3**, modern **JavaScript**, and **Laravel Blade** templating to deliver consistent cross-device performance.
+
+#### 🔹 Software Developer (Intern) | **Yemen Soft**
+
+*Aug 2023 – Sep 2023*
+
+* Analyzed system requirements and engineered core application logic.
+* Ensured high scalability, clean data flow, and seamless integration between system components.
 
 ---
 
-### 🌍 [LORMIY Platform](https://lormiy.com/?utm_source=gemini)
+## 🚀 `$ curl -s https://api.hayel-alfaisali.com/featured-projects`
 
-> *Comprehensive web portal engineered for localization, performance, and accessibility.*
+### 🌹 Rose Perfumes E-Commerce Platform *(May 2025 – Aug 2025)*
 
-* **Architecture:** Modular component architecture, internationalization (i18n), cross-browser stability.
-* **Impact:** Highly scalable design system ensuring seamless interaction and clear content discovery.
-* **Live Preview:** [lormiy.com](https://lormiy.com/?utm_source=gemini)
+> *Full-featured perfume e-commerce application engineered for speed, clean UX, and conversions.*
+
+* **Tech Stack:** React.js, Tailwind CSS, RESTful APIs.
+* **Role:** Architected and delivered the complete client-facing UI following modular component patterns for maintainability and scale.
+
+### 🌍 LORMIY Platform
+
+> *Strategic web portal dedicated to fair, equitable humanitarian action and policy influence.*
+
+* **Tech Stack:** JavaScript, Laravel Blade, Responsive CSS.
+* **Role:** Built structured, mobile-first pages with seamless backend integration.
 
 ---
 
-## 💼 Experience & Milestones
+## 🎓 Education & Certifications
 
 ```bash
-$ git log --oneline --decorate --graph
+$ cat education-history.log
 
 ```
 
-* **Frontend Developer** @ **Sofa Company**
-* Modernized web applications leveraging **React.js** and modular component patterns.
-* Designed efficient state architecture with **Zustand** & **Context API** to eliminate redundant re-renders.
-* Mentored junior team members and championed clean frontend coding standards and reviews.
+* 🎓 **Bachelor's Degree in Information Technology (IT)**
+* *Al-Nasser University* — Graduated Jul 2024
 
 
-* **Academic Background**
-* **Bachelor's Degree in Information Technology (IT)** — *Al-Nasser University* (Graduated Jul 2024)
+* 📜 **Advanced English Diploma**
+* *New Horizons Training Centers* — Graduated Jan 2020
 
 
+* 🏫 **High School Diploma**
+* *Al-Wahda School* — Score: 82% (2019)
 
----
 
-## 📊 Analytics & Activity
 
 ---
 
-## 📬 Terminal Ping
+## 📬 Terminal Ping & Contact
 
 ```bash
-$ ping hayel.alfaisali
-64 bytes from hayel: icmp_seq=1 ttl=64 time=0.042 ms
---- Let's build something extraordinary together! ---
+$ ping hayel-alfaisali.com
+64 bytes from hayel: icmp_seq=1 ttl=64 time=0.038 ms
+--- Hayel Al-Faisali is ready for hire / collaboration ---
