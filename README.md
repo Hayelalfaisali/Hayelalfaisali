@@ -1,17 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=HAYEL%20AL-FAISALI&fontSize=42&fontAlignY=38&desc=%3C%20Senior%20Front-End%20Engineer%20%2F%3E&descAlignY=62&descSize=20&fontColor=ffffff" alt="Header" width="100%" />
 
-  <p align="center">
-    <a href="https://hayel-alfaisali.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-hayel--alfaisali.vercel.app-0052CC?style=for-the-badge&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:hayelalfaisali1@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+# HAYEL AL-FAISALI
+### 💻 Front-End Developer & UI/UX Craftsman
+
+<p align="center">
+  <a href="https://hayel-alfaisali.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0052CC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hayel-al-faisali-841009231/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hayelalfaisali1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ```bash
@@ -25,7 +28,7 @@ const engineer: FrontEndArchitect = {
   role: "Front-End Developer & UI/UX Craftsman",
   stack: ["React.js", "Next.js", "Vue.js", "Angular", "TypeScript"],
   stateManagement: ["Zustand", "Context API", "Redux"],
-  styling: ["Tailwind CSS", "Sass", "Responsive & Pixel-Perfect Design"],
+  styling: ["Tailwind CSS", "Sass", "Responsive Design"],
   currentFocus: "Architecting scalable web apps with ultra-low latency & clean code",
   status: "🚀 Open for impactful collaborations & frontend roles"
 };
